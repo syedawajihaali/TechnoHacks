@@ -1,7 +1,7 @@
 # **TECHNOHACKS Intern Projects**
 ## 1. **Java Development Tasks:**
    
-🔗https://github.com/
+🔗https://github.com/syedawajihaali/TechnoHacks/tree/main/Java%20Development%20Tasks
 
 ### **Task 1: Calculator**
 
